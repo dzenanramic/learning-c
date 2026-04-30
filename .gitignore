@@ -1,0 +1,14 @@
+*
+!*/
+!*.c
+!*.h
+!*.md
+!.gitignore
+!Makefile
+
+
+*.o
+
+
+*~
+*.swp
